@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sihmar-Rahul
+- 👋 Hi, I’m @Rahul
 - 👀 I’m interested in senior web developers
 - 🔭 I’m currently working on **Construction Management E-commerce Webapp** 
 - 🤝 I’m looking for help with **Health Care Web Application**
